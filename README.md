@@ -1,3 +1,3 @@
-# collab-notebooks
+# Tensorflow - Rock Paper Scissors
 
-Kumpulan Collab Notebook hasil belajar
+Machine Learning Project (Image Classification) using Tensorflow to detect is the hand sign Rock, Paper, or Scissors
